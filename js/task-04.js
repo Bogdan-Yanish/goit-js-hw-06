@@ -33,15 +33,6 @@ function onIncrementBtnClick() {
 
 
 
-// incrementBtn.addEventListener('click', () => {
-//     counterValue += Number(incrementBtn.textContent);
-//     counterValue.textContent = String(counterValue);
-// });
-
-// decBtn.addEventListener('click', () => {
-//     counterValue += Number(decBtn.textContent);
-//     span.textContent = String(counterValue);
-// });
 
 
 
